@@ -1,0 +1,1 @@
+give @s item_frame{display:{Name:'{"text":"Confetti","color":"red","bold":true,"italic":false}'},EntityTag:{Tags:["confetti"]}} 1

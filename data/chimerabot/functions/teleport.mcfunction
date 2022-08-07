@@ -1,0 +1,1 @@
+execute as @e[type=armor_stand,tag=beam,nbt={OnGround:1b}] run execute at @s run teleport @s[type=armor_stand,tag=beam,nbt={OnGround:1b}] ~ ~100 ~

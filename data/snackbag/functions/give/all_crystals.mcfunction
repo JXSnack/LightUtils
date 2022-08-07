@@ -1,0 +1,9 @@
+give @s coal{display:{Name:'{"text":"Black Crystal","color":"white","italic":false}'},CustomModelData:517081,crystal:1b} 1
+give @s lapis_lazuli{display:{Name:'{"text":"Blue Crystal","color":"white","italic":false}'},CustomModelData:682749,crystal:1b} 1
+give @s leather{display:{Name:'{"text":"Brown Crystal","color":"white","italic":false}'},CustomModelData:123759,crystal:1b} 1
+give @s emerald{display:{Name:'{"text":"Green Crystal","color":"white","italic":false}'},CustomModelData:381005,crystal:1b} 1
+give @s blaze_powder{display:{Name:'{"text":"Orange Crystal","color":"white","italic":false}'},CustomModelData:128401,crystal:1b} 1
+give @s popped_chorus_fruit{display:{Name:'{"text":"Purple Crystal","color":"white","italic":false}'},CustomModelData:780385,crystal:1b} 1
+give @s redstone{display:{Name:'{"text":"Red Crystal","color":"white","italic":false}'},CustomModelData:921515,crystal:1b} 1
+give @s iron_ingot{display:{Name:'{"text":"White Crystal","color":"white","italic":false}'},CustomModelData:253708,crystal:1b} 1
+give @s gold_ingot{display:{Name:'{"text":"Yellow Crystal","color":"white","italic":false}'},CustomModelData:472051,crystal:1b} 1

@@ -1,0 +1,1 @@
+give @p item_frame{display:{Name:'{"text":"Lightning Bolt","color":"red","bold":true,"italic":false}'},EntityTag:{Tags:["lightning"]}} 1

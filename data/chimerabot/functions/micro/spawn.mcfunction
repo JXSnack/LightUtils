@@ -1,0 +1,2 @@
+data merge block ~ ~ ~ {Items:[{Slot:4b,id:"minecraft:carrot_on_a_stick",Count:1b,tag:{display:{Name:'{"text":"Spawn Waypoint","color":"white","italic":false}'},CustomModelData:147915,spawn:1b}}]}
+playsound minecraft:block.beacon.activate player @p

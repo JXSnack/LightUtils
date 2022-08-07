@@ -1,0 +1,2 @@
+data merge block ~ ~ ~ {Items:[{Slot:4b,id:"minecraft:item_frame",Count:1b,tag:{display:{Name:'{"text":"Black Micropoint","color":"yellow","italic":false}'},CustomModelData:808351,bkmicro:1b,EntityTag:{Tags:["bkmicro"],Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:808351}},Invulnerable:1b,Invisible:1b,Fixed:1b}}}]}
+playsound minecraft:block.beacon.activate player @p
