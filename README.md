@@ -25,6 +25,8 @@ Enable sparklers: `/function snackbag:config/enable_sparklers`* Disable: `/funct
 
 Enable confetti: `/function snackbag:config/tick_confetti`* - Confetti is enabled for 5 seconds
 
+Enable firework: `/function snackbag:confih/tick_firework`* - Fireworks get up into the air
+
 -----
 
 *= can be used in a command block, that means you can enable/disable it with redstone
