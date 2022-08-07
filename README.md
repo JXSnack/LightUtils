@@ -5,12 +5,13 @@ LightUtils is **NOT** *Chimerabot's Waypoints*. This is a fork that uses the cod
 
 **This version is still in development. We're still working on more features. If you find issues, don't mind to report them!**
 
-# What's different?
+# What's different to Chimerabot's Waypoints?
 - Added comments for better code reading
 - Added confetti
 - Added sparklers
-- Added firerockets
+- Added firework
 - Added config
+- Enable/Disable Micropoints
 - It's a LIGHT SYSTEM!!!
 
 # Important infos
